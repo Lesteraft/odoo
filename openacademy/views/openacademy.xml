@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
-        <record model="ir.ui.view" id="course_form_view">
+        <!-- <record model="ir.ui.view" id="course_form_view">
             <field name="name">course.form</field>
             <field name="model">openacademy.course</field>
             <field name="arch" type="xml">
@@ -13,7 +13,7 @@
                     </sheet>
                 </form>
             </field>
-        </record>
+        </record> -->
 
         <!-- window action -->
         <!--
