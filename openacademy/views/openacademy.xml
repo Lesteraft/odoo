@@ -154,7 +154,7 @@
                        default_group_by='instructor_id'>
                 </gantt>
             </field>
-        </record
+        </record>
 
         <record model="ir.actions.act_window" id="session_list_action">
             <field name="name">Sessions</field>
