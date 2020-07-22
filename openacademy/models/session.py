@@ -1,5 +1,5 @@
 from datetime import timedelta
-from odoo import models, fields, api, exceptions
+from odoo import models, fields, api, exceptions, _
 
 class Session(models.Model):
     _name = 'openacademy.session'
